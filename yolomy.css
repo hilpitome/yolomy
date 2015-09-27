@@ -8,12 +8,23 @@ nav {
 	background-color: inherit;
 
 }
+.land{
+	padding-top: 100px;
+	text-align: center;
+}
+
+br {
+   display: block;
+   margin:0;
+}
+
+.mouse{
+	padding-top: 100px;
+}
 .filter{
 	height: 100px;
 	background-color: #737365;
 	padding-top: 30px;
-
-
 }
 .products {
 background-color: red;
@@ -31,7 +42,9 @@ form p  {
 	 display: inline;
 	 margin-left: 20px;
 }
-
+.men{
+	text-align: center;
+}
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
