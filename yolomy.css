@@ -48,6 +48,16 @@ form p  {
 .line{
 	margin-top: 28px;
 }
+.line2{
+	margin-top: 28px;
+	width: 100%;
+}
+.women{
+	text-align: left;
+}
+.items {
+	height: 300px;
+}
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
