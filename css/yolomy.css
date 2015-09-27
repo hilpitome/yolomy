@@ -1,0 +1,21 @@
+
+footer.page-footer {
+  margin-top: 20px;
+  padding-top: 20px;
+  background-color: #1B1919;
+    }
+
+ 
+ }
+ .li
+ {
+
+    display: inline;
+}
+ header {
+ 	background-size: cover;
+ 	background-image: url("hero.png");
+ }
+ form {
+ 	list-style-type: inline;
+ }

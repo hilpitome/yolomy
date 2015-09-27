@@ -1,0 +1,62 @@
+section {
+		background-image: url("hero.jpg");
+		height: 800px;
+}
+
+nav {
+
+	background-color: inherit;
+
+}
+.filter{
+	height: 100px;
+	background-color: #737365;
+	padding-top: 30px;
+
+
+}
+.products {
+background-color: red;
+
+float: right;
+color: white;
+margin-right: 30px;
+}
+form {
+	margin-left: 20px
+	color:black;
+}
+form p  {
+
+	 display: inline;
+	 margin-left: 20px;
+}
+
+footer.page-footer {
+  margin-top: 20px;
+  padding-top: 20px;
+  background-color: #1B1919;
+    }
+
+
+ }
+ ul li  {
+
+    display: inline;
+}
+
+ }
+ form {
+ 	list-style-type: inline;
+ }
+
+ .spanning {
+ 	font-size: 2em;
+ 	font-weight: 900;
+ 	color: #52492A;
+ }
+
+
+
+
+}
