@@ -42,11 +42,13 @@ form p  {
 	 display: inline;
 	 margin-left: 20px;
 }
+
 .men{
 	text-align: center;
 }
 .line{
 	margin-top: 28px;
+	width:75%;
 }
 .line2{
 	margin-top: 28px;
@@ -56,8 +58,15 @@ form p  {
 	text-align: left;
 }
 .items {
-	height: 300px;
+	height: 400px;
 }
+.card {
+	height: 300px;
+	width: 300px;
+	background-color:#D1E0E0;
+}
+
+
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
