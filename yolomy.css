@@ -58,15 +58,23 @@ form p  {
 	text-align: left;
 }
 .items {
-	height: 400px;
+	height: 350px;
 }
 .card {
 	height: 300px;
 	width: 300px;
-	background-color:#D1E0E0;
+	background-color:#F6F9F9;
 }
+.card-title{
 
-
+}
+.about{
+	background-image: url(about.jpg);
+	height: 400px;
+	padding-top: 100px;
+  text-align: center;
+	color: white;
+}
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
