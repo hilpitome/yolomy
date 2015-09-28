@@ -93,22 +93,14 @@ footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
   background-color: #1B1919;
+	text-align: center;
+	color: white;
+	padding-bottom: 20px;
     }
 
 
  }
- ul li  {
+ div.info ul li  {
 
     display: inline;
 }
-
- }
- form {
- 	list-style-type: inline;
- }
-
- .spanning {
- 	font-size: 2em;
- 	font-weight: 900;
- 	color: #52492A;
- }
