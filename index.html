@@ -23,7 +23,7 @@
       </div>
       <div class="row land">
         <h1>Our clothing, your comfort</h1>
-        <p>We understand that you need to look good, and feel great<br/>it all starts with what you are wearing</p>
+        <p>We understand that you need to look good, and feel great<br></br>it all starts with what you are wearing</p>
         <img class="mouse" src="mouse_click.png">
 
       </div>
@@ -31,23 +31,28 @@
 
   </section>
   <div class="row filter">
-    <form action="#">
-   <p>
-     <input type="checkbox" id="test5" />
-     <label for="test5">MEN</label>
-   </p>
-   <p>
-     <input type="checkbox" id="test6" />
-     <label for="test6">WOMEN</label>
-   </p>
-   <p>
-     <input type="checkbox" id="test7" />
-     <label for="test7">CHILDREN</label>
-   </p>
+    <div class="col s8">
+      <form action="#">
+        <ul id="picker">
+           <li>
+             <input class="check_group" type="checkbox" id="test5" />
+             <label for="test5">MEN</label>
+           </li>
+           <li>
+             <input class="check_group" type="checkbox" id="test6" />
+             <label for="test6">WOMEN</label>
+           </li>
+           <li>
+             <input class="check_group" type="checkbox" id="test7" />
+             <label for="test7">CHILDREN</label>
+           </li>
+        </ul>
 
+       </form>
+   </div>
+   <div class="col s4">
      <button btn-large:hover class="products">SEE ALL PRODUCTS</button>
-
-  </form>
+   </div>
 
 
   </div>

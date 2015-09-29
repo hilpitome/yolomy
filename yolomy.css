@@ -24,14 +24,20 @@ br {
 .filter{
 	height: 100px;
 	background-color: #737365;
-	padding-top: 30px;
+	padding-top: 20px
+}
+form ul#picker li{
+display: inline;
+}
+.check_group{
+	background-color: white;
+	padding-left: 20px;
 }
 .products {
-background-color: red;
-
+background-color: #A30000;
 float: right;
 color: white;
-margin-right: 30px;
+padding: 15px;
 }
 
 
