@@ -33,15 +33,7 @@ float: right;
 color: white;
 margin-right: 30px;
 }
-form {
-	margin-left: 20px
-	color:black;
-}
-form p  {
 
-	 display: inline;
-	 margin-left: 20px;
-}
 
 .men{
 	text-align: center;
@@ -99,8 +91,18 @@ footer.page-footer {
     }
 
 
- }
- div.info ul li  {
 
-    display: inline;
+ ul.info li{
+display: inline;
+border-right: solid;
+
+}
+#other{
+	padding-top: 30px;
+	margin-bottom: 0;
+}
+
+#last{
+	padding-top: 0;
+	margin-top: 0;
 }
