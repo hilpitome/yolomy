@@ -26,7 +26,7 @@ br {
 }
 .filter{
 	height: 100px;
-	background-color: #737365;
+background-color:darkkhaki;
 	padding-top: 20px
 }
 form ul#picker li{
@@ -43,7 +43,10 @@ color: white;
 padding: 15px;
 }
 
-
+.image{
+  width: 200px;
+ height: 250px;
+ }
 .men{
 	text-align: center;
 }
@@ -60,15 +63,14 @@ padding: 15px;
 }
 .items {
 	height: 350px;
-}
-.card {
-	height: 300px;
-	width: 300px;
-	background-color:#F6F9F9;
-}
-.card-title{
 
 }
+.card {
+background-color: #F3F7F7;
+height: 300px;
+
+}
+
 .about{
 
 	background-image: url(about.jpg);
